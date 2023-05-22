@@ -8,7 +8,7 @@ import logo from '../assets/pharmeasy-logo.png';
 function Navbar() {
   return (
     <div style={{width:"100%"}}>
-       <header onload="navbar()">
+       <header >
       <div class="navbar">
         <div class="upper">
           <a href="" class="logo">
